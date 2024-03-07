@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 #### I haven't used Github much. Maybe I'll use it from now on🤔
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=CalicoMunchikin)
 <!--
 **CalicoMunchikin/CalicoMunchikin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
