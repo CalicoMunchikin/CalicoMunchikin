@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I haven't used Github much. Maybe I'll use it from now on🤔
+#### I haven't used Github much. Maybe I'll use it from now on🤔
 <!--
 **CalicoMunchikin/CalicoMunchikin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
